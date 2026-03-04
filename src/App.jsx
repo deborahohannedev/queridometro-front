@@ -49,7 +49,7 @@ function App() {
       <div className="w-full max-w-md bg-white rounded-2xl shadow-xl p-6">
 
         <h1 className="text-2xl font-bold text-center mb-6">
-          🌍 Queridômetro Trip
+          🌍 Queridômetro Trip Porto Seguro
         </h1>
 
         {/* VOTAÇÃO */}
